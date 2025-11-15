@@ -22,7 +22,7 @@ The notebook walks step-by-step through the full process: environment setup, mod
 |------|-------------|
 | `Deep_Convolutional_Q_Learning_for_Pac_Man_Complete_Code.ipynb` | Complete notebook containing model architecture, training logic, and evaluation code |
 | `README.md` | Project documentation (this file) |
-| *(optional)* `results/video.mp4` | Sample gameplay recorded after training |
+| `pacman_agento.mp4` | Sample gameplay recorded after training |
 
 ---
 
